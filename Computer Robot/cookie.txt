@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+nitopac.nit.net.cn	FALSE	/	FALSE		PHPSESSID	v3695tqqo61pls2gr2685fn5o6
